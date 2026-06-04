@@ -103,7 +103,8 @@ DDoS-Transformer-Detection/
 ├── results/
 │   └── figures/                       # Generated plots and diagrams
 └── docs/
-    └── research_draft.tex             # Research report (IEEE format)
+  ├── research_draft.tex             # Research report (LaTeX source)
+  └── research_draft.pdf             # Compiled paper (PDF)
 ```
 
 ## Setup & Reproduction
