@@ -100,11 +100,7 @@ DDoS-Transformer-Detection/
 │   ├── models.py                      # All model architectures
 │   ├── training.py                    # Training loops + loss functions
 │   └── evaluation.py                  # Metrics + attention visualization
-├── results/
-│   └── figures/                       # Generated plots and diagrams
-└── docs/
-  ├── research_draft.tex             # Research report (LaTeX source)
-  └── research_draft.pdf             # Compiled paper (PDF)
+└── research_draft.pdf                 # Research report (IEEE format)             
 ```
 
 ## Setup & Reproduction
