@@ -1,0 +1,30 @@
+# Byte-compiled / optimised
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+
+# Model checkpoints
+checkpoints/*.pth
+*.pth
+
+# Data files (too large for git)
+data/*.csv
+data/*.npz
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# IDE
+.vscode/
+.idea/
+
+# Virtual environments
+venv/
+.env/
+
+docs/
+results/

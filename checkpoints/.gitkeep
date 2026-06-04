@@ -1,0 +1,2 @@
+# This directory stores model checkpoints (.pth files).
+# Not tracked in git — add *.pth to .gitignore.
